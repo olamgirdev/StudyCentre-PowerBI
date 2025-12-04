@@ -15,6 +15,7 @@ Visualize key metrics such as course fees, student registrations, and gender ins
 Build a clean, interactive, and professional dashboard for decision-making
 
 🔍 Completed Tasks
+
 ✅ 1. Average Course Fee per Year
 
 Calculated the yearly average of the Course_Fee column.
